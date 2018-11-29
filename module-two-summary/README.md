@@ -4,7 +4,7 @@ An summary of the different things covered in module two including a list of dif
 
 created using [irongenerate](https://www.npmjs.com/package/iron-generator)
 
-In module two we have learnt how to create a full stack application using Node. We used [Express](https://www.npmjs.com/package/express) as a framework and [handlebars](https://www.npmjs.com/package/handlebars) as a template engine.
+In module two we have learnt how to create a full stack application using Node. We used [Express](https://www.npmjs.com/package/express) as a framework and [handlebars](https://www.npmjs.com/package/hbs) as a template engine.
 
 ## Things included in irongenerate
 
